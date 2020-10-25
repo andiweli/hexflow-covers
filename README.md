@@ -15,6 +15,7 @@ As mentioned by VitaHEX:
 Since all cover images have to be named by the App ID of the game, I have named them "AppID.png".
 HEXFlow will search for suitable cover images and show them instead of the game icon (default).
 
-**Note:** At the moment there are only EU-covers available. As soon as there are enough covers for a solid basis, I will release the sources as .PSD file for Photoshop. Have fun!
+**Note:** At the moment there are only EU-covers available.
+As soon as there are enough covers for a solid basis, I will release the sources as .PSD file for Photoshop. Have fun!
 
 *Asphalt Injection, Assassin's Creed Games, Dungeon Hunter, Minecraft, Need For Speed, Ridge Racer, Uncharted, WRC Series... - just to name a few.*
