@@ -1,8 +1,8 @@
 # HEXFlow Covers
 Cover images for HEXFlow.
 
-This is a collection of cover images for VitaHEX Games' "HEXFlow" launcher, available for Sony PSVITA.
-At the moment it is quite small, but I will extend it in my spare time.
+This is a collection of some simple and tidy cover images for VitaHEX Games' "HEXFlow" launcher, available for Sony PSVITA.
+At the moment the collection is quite small, but I will extend it in my spare time.
 
 ## What you need?
 https://github.com/VitaHEX-Games/HexFlow-Launcher
