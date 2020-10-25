@@ -16,3 +16,5 @@ Since all cover images have to be named by the App ID of the game, I have named 
 HEXFlow will search for suitable cover images and show them instead of the game icon (default).
 
 **Note:** At the moment there are only EU-covers available.
+
+*Asphalt Injection, Assassin's Creed Games, Dungeon Hunter, Minecraft, Need For Speed, Ridge Racer, Uncharted, WRC Series... - just to name a few.*
