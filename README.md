@@ -7,5 +7,6 @@ At the moment it is quite small, but I will extend it in my spare time.
 ## What you need?
 https://github.com/VitaHEX-Games/HexFlow-Launcher
 
-### As mentioned by VitaHEX:
+As mentioned by VitaHEX:
 > Place your custom covers in "ux0:/data/HexFlow/COVERS/PSVITA/"
+Since all cover images have to be named by the App ID of the game, I have named them "AppID.png".
