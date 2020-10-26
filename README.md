@@ -17,7 +17,7 @@ HEXFlow will search for suitable cover images and show them instead of the game 
 
 **Note:**<br>
 At the moment most of the covers are EU-covers. You can file an issue for cover requests if you want.<br>
-A .PSD file for Adobe Photoshop is available now too, where you can create your own covers!<br>
+A .PSD file for Adobe Photoshop is available now too, where you can create your own covers in 250x320! I always export them as 256 color .PNGs to save space.<br>
 Have fun!
 
 ![Some thumbnails](/some-thumbnails.png)
