@@ -1,0 +1,59 @@
+PCSE00628	Aeterno Blade (US)
+PCSB00412	Age Of Zombies
+PCSB00231	Alien Breed
+PCSB00568	Another World
+PCSB00040	Asphalt Injection
+PCSB00792	Assassin's Creed Chronicles
+PCSB00074	Assassin's Creed Liberation
+PCSE00584	Atelier Ayesha
+PCSB00779	Axiom Verge
+PCSB01041	Bard's Tale Remastered
+PCSB00353	Batman Blackgate
+PCSF00570	Borderlands 2
+PCSB00213	Call Of Duty Declassified
+PCSF00378	Counter Spy
+PCSE00792	Dariusburst CS (US)
+PCSB00747	Day Of The Tentacle
+PCSF00427	Dead Nation
+PCSB00499	Deception Blood Ties
+PCSB00829	Deception Nightmare Princess
+PCSB00296	DoA5
+PCSB00045	Doctor Who Eternity Clock
+PCSE00912	Dragon Quest Builders
+PCSB00437	Duke Nukem
+PCSB00041	Dungeon Hunter Alliance
+PCSB00333	Farming Simulator
+PCSB00534	Farming Simulator 14
+PCSB00843	Farming Simulator 16
+PCSB01080	Farming Simulator 18
+PCSB00273	Fruit Ninja
+PCSB00189	Guacamelee
+PCSB00409	Gunslugs
+PCSB00842	2013 Infected Wars
+PCSB00664	Jetpack Joyride Deluxe
+PCSB00336	Limbo
+PCSB00071	Michael Jackson Experience
+PCSB00560	Minecraft
+PCSB00182	MUD Motocross
+PCSB00696	MXGP Compact
+PCSB00470	MXGP
+PCSB00183	Need For Speed Most Wanted
+PCSB00180	Oddworld Stranger's Wrath
+PCSB00358	Proteus
+PCSB00643	Race The Sun
+PCSB00048	Ridge Racer
+PCSB00702	Severed
+PCSB00115	Silent Hill Book Of Memories
+PCSB00161	Sine Mora
+PCSB00826	Sky Force Anniversary
+PCSB00190	Sonic All Stars Racing
+PCSB00416	Tabletop Racing
+PCSB00405	Terraria
+PCSB00428	The Amazing Spiderman
+PCSB00489	The Swapper
+PCSF00012	Uncharted Golden Abyss
+PCSB00038	Urban Trial Freestyle
+PCSB00204	WRC3
+PCSB00345	WRC4
+PCSB00762	WRC5
+PCSB00094	Zen Pinball 2
