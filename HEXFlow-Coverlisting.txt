@@ -22,10 +22,13 @@ PCSB00045	Doctor Who Eternity Clock
 PCSE00912	Dragon Quest Builders
 PCSB00437	Duke Nukem
 PCSB00041	Dungeon Hunter Alliance
+PCSF00006	Everybody's Golf
 PCSB00333	Farming Simulator
 PCSB00534	Farming Simulator 14
 PCSB00843	Farming Simulator 16
 PCSB01080	Farming Simulator 18
+PCSF00349	Flower
+PCSF00446	Freedom Wars
 PCSB00273	Fruit Ninja
 PCSB00189	Guacamelee
 PCSB00409	Gunslugs
