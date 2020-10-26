@@ -20,6 +20,6 @@ At the moment there are only EU-covers available. You can file an issue for cove
 As soon as there are enough covers for a solid basis, I will release the sources as .PSD file for Photoshop.<br>
 Have fun!
 
-![Example covers](/some-thumbnails.jpg)
+![Some thumbnails](/some-thumbnails.png)
 
 *Asphalt Injection, Assassin's Creed Games, Dungeon Hunter, Minecraft, Need For Speed, Ridge Racer, Uncharted, WRC Series... - just to name a few.*
