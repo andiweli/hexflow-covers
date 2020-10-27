@@ -4,7 +4,7 @@ Cover images for HEXFlow.
 This is a collection of some handmade, simple and tidy *(nearly official-like)* cover images for VitaHEX Games' "HEXFlow" launcher, a fantastic launcher made available for Sony PSVITA.
 The collection is constantly growing...
 
-![Example covers](/background-example.jpg)
+![Example covers](/img/background-example.jpg)
 
 ## What you need?
 https://github.com/VitaHEX-Games/HexFlow-Launcher
@@ -24,6 +24,6 @@ At the moment most of the covers are EU-covers. You can file an issue for cover 
 A .PSD file for Adobe Photoshop is available now too, where you can create your own covers in 250x320! I always export them as 256 color .PNGs to save space.<br>
 Have fun!
 
-![Some thumbnails](/some-thumbnails.png)
+![Some thumbnails](/img/some-thumbnails.png)
 
 *Asphalt Injection, Assassin's Creed Games, Dungeon Hunter, Minecraft, Need For Speed, Ridge Racer, Uncharted, WRC Series... - just to name a few.*
