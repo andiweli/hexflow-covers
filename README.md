@@ -16,7 +16,8 @@ Since all cover images have to be named by the App ID of the game, I have named 
 HEXFlow will search for suitable cover images and show them instead of the game icon (default).
 
 ## Custom Backgrounds
-In addition you will also find some backgrounds suitable for HEXFlow. You have just to copy them over to "ux0:/data/HexFlow/" and rename the background you like to "background.png". For the best view-experience you have to disable the reflections: Head over to ux0:/app/HXFL00001/DATA and rename box.obj and cover.obj to something like box.obj.orig and cover.obj.orig. Then you have to rename the files box_noreflx.obj to box.obj and cover_noreflx.obj to cover.obj - That's it! :)
+In addition you will also find some backgrounds suitable for HEXFlow. You have just to copy them over to "ux0:/data/HexFlow/" and rename the background you like to "background.png".<br>
+**Hint:** For the best view-experience you should disable the reflections: Head over to ux0:/app/HXFL00001/DATA and rename box.obj and cover.obj to something like box.obj.orig and cover.obj.orig. Then you have to rename the files box_noreflx.obj to box.obj and cover_noreflx.obj to cover.obj - That's it! :)
 
 **Note:**<br>
 At the moment most of the covers are EU-covers. You can file an issue for cover requests if you want.<br>
