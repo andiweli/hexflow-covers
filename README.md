@@ -15,6 +15,9 @@ As mentioned by VitaHEX:
 Since all cover images have to be named by the App ID of the game, I have named them "AppID.png". A listing with the associated game names is included.
 HEXFlow will search for suitable cover images and show them instead of the game icon (default).
 
+## Custom Backgrounds
+In addition you will also find some backgrounds suitable for HEXFlow. You have just to copy them over to "ux0:/data/HexFlow/" and rename the background you like to "background.png". That's it.
+
 **Note:**<br>
 At the moment most of the covers are EU-covers. You can file an issue for cover requests if you want.<br>
 A .PSD file for Adobe Photoshop is available now too, where you can create your own covers in 250x320! I always export them as 256 color .PNGs to save space.<br>
