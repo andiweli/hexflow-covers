@@ -1,7 +1,7 @@
 # HEXFlow Covers & Backgrounds
 Cover images and background pictures for HEXFlow.
 
-***Update 03.11.2020:** Updated folder structure for HEXFlow.*
+***Update 05.11.2020:** Added 33 EU/US covers for HEXFlow from VitaHEX Games.*
 
 This is a collection of some handmade, simple and tidy *(nearly official-like)* cover images for VitaHEX Games' "HEXFlow" launcher, a fantastic launcher made available for Sony PSVITA. In addition you will also find some backgrounds suitable for HEXFlow. The collection is constantly growing...
 
