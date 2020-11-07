@@ -1,6 +1,6 @@
 # HEXFlow Covers & Backgrounds
-Cover images and background pictures for HEXFlow.
-**Hint:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
+Cover images and background pictures for HEXFlow.<br>
+**Important:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
 
 ***Update 07.11.2020:** Added 135 original covers © from renascene.com.*<br>
 ***Update 06.11.2020:** Added 33 EU/US covers for HEXFlow from VitaHEX Games.*
