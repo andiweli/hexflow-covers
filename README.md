@@ -2,7 +2,7 @@
 Cover images and background pictures for HEXFlow.<br>
 **Important:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
 
-***Update 13.11.2020:** Added thousands of PSP and PS1 covers © from renascene.com - thanks again to @jguilford80!
+***Update 13.11.2020:** Added thousands of PSP and PS1 covers - thanks again to @jguilford80!
 ***Update 10.11.2020:** Added 3.769 original covers © from renascene.com - thanks to @jguilford80!*<br>
 ***Update 07.11.2020:** Added 135 original covers © from renascene.com.*<br>
 ***Update 06.11.2020:** Added 33 EU/US covers for HEXFlow from VitaHEX Games.*
