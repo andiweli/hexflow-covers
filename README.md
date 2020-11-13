@@ -4,13 +4,13 @@ Cover images and background pictures for HEXFlow.<br>
 
 **Important:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
 
-***Update 13.11.2020:**<br>
+* ***Update 13.11.2020:**<br>
 Added thousands of PSP and PS1 covers © from renascene.com - thanks again to @jguilford80!* Also I published a final release for those who want to download everything.<br>
-***Update 10.11.2020:**<br>
+* ***Update 10.11.2020:**<br>
 Added 3.769 original covers © from renascene.com - thanks to @jguilford80!*<br>
-***Update 07.11.2020:**<br>
+* ***Update 07.11.2020:**<br>
 Added 135 original covers © from renascene.com.*<br>
-***Update 06.11.2020:**<br>
+* ***Update 06.11.2020:**<br>
 Added 33 EU/US covers for HEXFlow from VitaHEX Games.*
 
 This is a collection of some handmade, simple and tidy *(nearly official-like)* cover images and many others for VitaHEX Games' "HEXFlow" launcher, a fantastic launcher made available for Sony PSVITA. In addition you will also find some backgrounds suitable for HEXFlow. The collection is constantly growing...
