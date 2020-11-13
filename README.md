@@ -1,5 +1,7 @@
 # HEXFlow Covers & Backgrounds
 Cover images and background pictures for HEXFlow.<br>
+**The most complete collection of PSVita/PSP/PS1 covers available for HEXFlow.**
+
 **Important:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
 
 ***Update 13.11.2020:** Added thousands of PSP and PS1 covers - thanks again to @jguilford80!*<br>
