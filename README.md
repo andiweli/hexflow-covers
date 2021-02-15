@@ -4,6 +4,8 @@ Cover images and background pictures for HEXFlow.<br>
 
 **Important:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
 
+* ***Update 15.02.2020:**<br>
+Thanks to J0R6IT0 for adding some new homebrew covers!<br>
 * ***Update 14.11.2020:**<br>
 Added thousands of PSP and PS1 covers © from renascene.com - thanks again to @jguilford80!* Also I published a final release for those who want to download everything.<br>
 * ***Update 10.11.2020:**<br>
