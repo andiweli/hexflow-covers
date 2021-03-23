@@ -4,7 +4,9 @@ Cover images and background pictures for HEXFlow.<br>
 
 **Important:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
 
-* **Update 15.02.2020:**<br>
+* **Update 23.03.2021:**<br>
+Added GTA: Chinatown Wars homebrew cover. Now all 4 GTA ports have PS VITA covers.<br>
+* **Update 15.02.2021:**<br>
 Thanks to J0R6IT0 for adding some new homebrew covers!<br>
 * **Update 14.11.2020:**<br>
 Added thousands of PSP and PS1 covers © from renascene.com - thanks again to @jguilford80!* Also I published a final release for those who want to download everything.<br>
