@@ -2,10 +2,12 @@
 Cover images and background pictures for HEXFlow.<br>
 **The most complete collection of PSVita/PSP/PS1 covers available for HEXFlow.**
 
-**Important:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
+> **Important:** There will be no releases from now on since HEXFlow has it's auto download function for this library.
 
+## Latest News
 * **Update 17.05.2021:**<br>
 Added 51 new PS Vita covers - thanks to [jimbob4000](https://github.com/jimbob4000)!<br>
+Also added 4 new homebrew covers: AbuseVita, Brain Splitter, DaedalusX64 and mGBA.<br>
 * **Update 24.03.2021:**<br>
 Added 20 customized Homebrew/PS Vita covers.<br>
 (You have to manually set the category to "PS Vita" by entering settings of the game via triangle-button)<br>
@@ -20,28 +22,27 @@ Added 135 original covers © from renascene.com.*<br>
 * **Update 06.11.2020:**<br>
 Added 33 EU/US covers for HEXFlow from VitaHEX Games.*
 
+
+## What is it?
 This is a collection of some handmade, simple and tidy *(nearly official-like)* cover images and many others for VitaHEX Games' "HEXFlow" launcher, a fantastic launcher made available for Sony PSVITA. In addition you will also find some backgrounds suitable for HEXFlow. The collection is constantly growing...
+
+**Note to YOU ALL:**<br>
+> Thanks to the community nearly ALL games are "covered" with this collection - as well as most homebrews!
 
 ![Example covers](/img/background-example.jpg)
 
 ## What you need?
 https://github.com/VitaHEX-Games/HexFlow-Launcher
 
-As mentioned by VitaHEX:
-> Place your custom covers in "ux0:/data/HexFlow/COVERS/PSVITA/"
+**Note for latest HEXFlow update:**
+> You don't need to manually copy the covers over to your SD. HEXFLow has a built-in "Scan covers and update" option which makes it easy for you to update all available covers on the go. 
 
-Since all cover images have to be named by the App ID of the game, I have named them "AppID.png". A listing with the associated game names is included.
-HEXFlow will search for suitable cover images and show them instead of the game icon (default).
+**Hint for Homebrew covers not showing:**
+> You have to manually set the category to "PS Vita" by entering settings of the game via triangle-button - otherwise the cover won't show up!
 
 ## Custom Backgrounds
 You have just to copy them over to "ux0:/data/HexFlow/" and rename the background you like to "background.png".<br>
-**Hint:** For the best view-experience you should disable the reflections: Head over to ux0:/app/HXFL00001/DATA and rename box.obj and cover.obj to something like box.obj.orig and cover.obj.orig. Then you have to rename the files box_noreflx.obj to box.obj and cover_noreflx.obj to cover.obj - That's it! :)
 
-**Note:**<br>
-At the moment most of the covers are EU-covers. You can file an issue for cover requests if you want.<br>
-A .PSD file for Adobe Photoshop is available now too, where you can create your own covers in 250x320! I always export them as 256 color .PNGs to save space.<br>
-Have fun!
+A .PSD file for Adobe Photoshop is available too, where you can create your own covers in 250x320! I always export them as 256 color .PNGs to save space - Have fun!
 
 ![Some thumbnails](/img/some-thumbnails.png)
-
-*Asphalt Injection, Assassin's Creed Games, Dungeon Hunter, Minecraft, Need For Speed, Ridge Racer, Uncharted, WRC Series... - just to name a few.*
