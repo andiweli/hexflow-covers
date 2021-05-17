@@ -6,6 +6,7 @@ Cover images and background pictures for HEXFlow.<br>
 
 * **Update 17.05.2021:**<br>
 Added 51 new PS Vita covers - thanks to [jimbob4000](https://github.com/jimbob4000)!<br>
+Also added 4 new homebrew covers: AbuseVita, Brain Splitter, DaedalusX64 and mGBA.<br>
 * **Update 24.03.2021:**<br>
 Added 20 customized Homebrew/PS Vita covers.<br>
 (You have to manually set the category to "PS Vita" by entering settings of the game via triangle-button)<br>
