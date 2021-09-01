@@ -1,6 +1,6 @@
 # HexFlow Covers & Backgrounds
 Cover images and background pictures for HexFlow-Launcher.<br>
-**The most complete collection of PSVita/PSP/PS1/Homebrew covers available for [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher).**
+**The most complete collection of PSVita/PSP/PS1/Homebrew covers available for [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) and [RetroFlow-Launcher](https://github.com/jimbob4000/RetroFlow-Launcher).**
 
 > **Important:** There will be no new releases from now on since HexFlow-Launcher has it's "auto-download" function for this library.
 
