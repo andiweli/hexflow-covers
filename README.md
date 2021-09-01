@@ -24,7 +24,7 @@ Added 33 EU/US covers for HexFlow-Launcher from VitaHEX Games.*
 
 
 ## What is it?
-This is a collection of some handmade, simple and tidy *(nearly official-like)* cover images and many others for VitaHEX Games' [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher), a fantastic launcher made available for Sony PS VITA. In addition you will also find some backgrounds suitable for HexFlow-Launcher. The collection is constantly growing...
+This is a collection of some handmade, simple and tidy *(nearly official-like)* cover images and many others for VitaHEX Games' [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) and JimBob4000's [RetroFlow-Launcher](https://github.com/jimbob4000/RetroFlow-Launcher), two fantastic launchers made available for Sony PS VITA. In addition you will also find some backgrounds suitable for both Launchers.
 
 **Note to YOU ALL:**<br>
 > Thanks to the community nearly ALL games are "covered" with this collection - as well as most homebrews!
@@ -33,6 +33,7 @@ This is a collection of some handmade, simple and tidy *(nearly official-like)* 
 
 ## What you need?
 https://github.com/VitaHEX-Games/HexFlow-Launcher
+https://github.com/jimbob4000/RetroFlow-Launcher
 
 **Note for latest HexFlow-Launcher update:**
 > You don't need to manually copy the covers over to your SD. HexFlow-Launcher has a built-in "Scan covers and update" option which makes it easy for you to update all available covers on the go. 
