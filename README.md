@@ -32,7 +32,7 @@ This is a collection of some handmade, simple and tidy *(nearly official-like)* 
 ![Example covers](/img/background-example.jpg)
 
 ## What you need?
-https://github.com/VitaHEX-Games/HexFlow-Launcher
+https://github.com/VitaHEX-Games/HexFlow-Launcher <br>
 https://github.com/jimbob4000/RetroFlow-Launcher
 
 **Note for latest HexFlow-Launcher update:**
