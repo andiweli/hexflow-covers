@@ -5,6 +5,8 @@ Cover images and background pictures for HexFlow-Launcher.<br>
 > **Important:** There will be no new releases from now on since HexFlow-Launcher has it's "auto-download" function for this library.
 
 ## Latest News
+* **Update 26.10.2021:**<br>
+Thanks to jimbob4000 for another huge (mainly PS1) upgrade pack. You can download it [here](https://drive.google.com/file/d/1-AvN3cj2nMKHreULKmKZbUzSDEcQYXhO/view?usp=sharing).
 * **Update 17.05.2021:**<br>
 Added 51 new PS Vita covers - thanks to [jimbob4000](https://github.com/jimbob4000)!<br>
 Also added 4 new homebrew covers: AbuseVita, Brain Splitter, DaedalusX64 and mGBA.<br>
