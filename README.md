@@ -5,6 +5,8 @@ Cover images and background pictures for HexFlow-Launcher.<br>
 > **Important:** There will be no new releases from now on since HexFlow-Launcher has it's "auto-download" function for this library.
 
 ## Latest News
+* **Update 08.02.2025:**<br>
+Thanks agaon to jimbob4000 for 9 new covers and 1 updated one.
 * **Update 24.04.2024:**<br>
 Thanks to jimbob4000 for another upgrade pack (PSVITA & Ports). 
 * **Update 26.11.2021:**<br>
