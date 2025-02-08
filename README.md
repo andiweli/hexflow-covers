@@ -1,5 +1,5 @@
-# HexFlow Covers, Backgrounds and Music
-Cover images, background pictures and background music for HexFlow-Launcher.<br>
+# Covers, Backgrounds and Music for RetroFlow/ HexFlow Launcher
+Cover images, background pictures and background music for RetroFlow- and HexFlow-Launcher.<br>
 **The most complete collection of PSVita/PSP/PS1/Homebrew covers available for [RetroFlow-Launcher](https://github.com/jimbob4000/RetroFlow-Launcher) and the original [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher).**
 
 ## Latest News
@@ -34,7 +34,7 @@ Added 33 EU/US covers for HexFlow-Launcher from VitaHEX Games.*
 </details>
 
 ## What is it?
-This is a collection of some handmade, simple and tidy *(nearly official-like)* cover images and many others for JimBob4000's [RetroFlow-Launcher](https://github.com/jimbob4000/RetroFlow-Launcher) and the *original* VitaHEX Games' [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher), two fantastic launchers made available for Sony PS VITA. In addition you will also find some backgrounds suitable for both Launchers and background music.
+This is a collection of some handmade *(nearly official-like)* cover images and manymany other official cover images for JimBob4000's [RetroFlow-Launcher](https://github.com/jimbob4000/RetroFlow-Launcher) and the *original* VitaHEX Games' [HexFlow-Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher), two fantastic launchers made available for Sony PS VITA. In addition you will also find some backgrounds suitable for both Launchers and background music.
 
 **Note to YOU ALL:**<br>
 > Thanks to the community nearly ALL games are "covered" with this collection - as well as most homebrews!
@@ -46,8 +46,8 @@ https://github.com/jimbob4000/RetroFlow-Launcher<br>
 or<br>
 https://github.com/VitaHEX-Games/HexFlow-Launcher
 
-**Note for latest HexFlow-Launcher update:**
-> You don't need to manually copy the covers over to your SD. HexFlow-Launcher has a built-in "Scan covers and update" option which makes it easy for you to update all available covers on the go. 
+**Note for HexFlow-Launcher:**
+> You don't need to manually copy the covers over to your SD. The latest HexFlow-Launcher has a built-in "Scan covers and update" option which makes it easy for you to update all available covers on the go. 
 
 **Hint for Homebrew covers not showing:**
 > You have to manually set the category to "PS Vita" by entering settings of the game via triangle-button - otherwise the cover won't show up!
