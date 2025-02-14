@@ -5,7 +5,7 @@ Cover images, background pictures and background music for RetroFlow- and HexFlo
 ## Latest News
 * **Update 08.02.2025:**<br>
 Thanks again to jimbob4000 for 9 new covers and 1 updated one.<br>
-I also added **6 free-to-use loopable background music-tracks**. The music was taken from the never released Amiga game "PhaseOut" back in the 90s for which I did the music for. Years later a C64 version [became available](https://www.c64-wiki.de/wiki/Phase_Out).
+I also added **6 free-to-use loopable [background music-tracks](https://github.com/andiweli/hexflow-covers/tree/main/Music)**. The music was taken from the never released Amiga game "PhaseOut" back in the 90s for which I did the music for. Years later a C64 version [became available](https://www.c64-wiki.de/wiki/Phase_Out).
 <details>
 <summary>Previous updates</summary>
 
@@ -53,7 +53,7 @@ https://github.com/VitaHEX-Games/HexFlow-Launcher
 > You have to manually set the category to "PS Vita" by entering settings of the game via triangle-button - otherwise the cover won't show up!
 
 ## Custom Music
-Place your *.ogg files inside /data/RetroFlow/MUSIC in case of using [RetroFlow Launcher](https://github.com/jimbob4000/RetroFlow-Launcher).
+Place the [new music files](https://github.com/andiweli/hexflow-covers/tree/main/Music) your *.ogg files inside /data/RetroFlow/MUSIC in case of using [RetroFlow Launcher](https://github.com/jimbob4000/RetroFlow-Launcher).
 
 ## Custom Backgrounds
 You have just to copy them over to "/data/RetroFlow/WALLPAPER" in case of using [RetroFlow Launcher](https://github.com/jimbob4000/RetroFlow-Launcher) or "/data/HexFlow/" in case of using the original [HexFlow Launcher](https://github.com/VitaHEX-Games/HexFlow-Launcher) and rename the background you like to "background.png".<br>
